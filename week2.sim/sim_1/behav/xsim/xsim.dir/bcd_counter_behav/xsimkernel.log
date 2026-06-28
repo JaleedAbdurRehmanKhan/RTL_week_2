@@ -1,0 +1,4 @@
+Running: xsim.dir/bcd_counter_behav/xsimk.exe -simmode gui -wdb bcd_counter_behav.wdb -simrunnum 0 -socket 10329
+Design successfully loaded
+Design Loading Memory Usage: 10968 KB (Peak: 10968 KB)
+Design Loading CPU Usage: 15 ms
