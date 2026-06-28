@@ -1,0 +1,8 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+Time=0 | rstn=0 | op=000 | a=0 | b=0 | result=0
+Time=15000 | rstn=1 | op=000 | a=10 | b=20 | result=0
+Time=25000 | rstn=1 | op=001 | a=50 | b=15 | result=30
+Time=35000 | rstn=1 | op=010 | a=4294901760 | b=16776960 | result=35
+Time=45000 | rstn=1 | op=010 | a=4294901760 | b=16776960 | result=16711680
+$finish called at time : 75 ns : File "D:/JaleedUSTP/RTL/RTLLab/week2/week2.srcs/sim_1/new/tb_pipeline_alu.sv" Line 48

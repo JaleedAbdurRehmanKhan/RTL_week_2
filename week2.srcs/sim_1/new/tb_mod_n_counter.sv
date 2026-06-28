@@ -45,7 +45,7 @@ module tb_mod_n_counter(
            rstn = 0;
            #10;
            rstn=1;
-     #50;
+     #200;
      $finish;
            end
 endmodule

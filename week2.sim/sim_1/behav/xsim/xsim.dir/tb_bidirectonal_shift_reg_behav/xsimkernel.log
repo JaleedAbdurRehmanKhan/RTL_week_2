@@ -1,0 +1,4 @@
+Running: xsim.dir/tb_bidirectonal_shift_reg_behav/xsimk.exe -simmode gui -wdb tb_bidirectonal_shift_reg_behav.wdb -simrunnum 0 -socket 5895
+Design successfully loaded
+Design Loading Memory Usage: 11244 KB (Peak: 11244 KB)
+Design Loading CPU Usage: 15 ms
